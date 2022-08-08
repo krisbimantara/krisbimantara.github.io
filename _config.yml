@@ -1,0 +1,62 @@
+### Site Settings ###
+title: Nilavan Akilan
+description: >-
+  Data Scientist | Machine Learning Engineer
+baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository: Nilavan/Nilavan.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+
+### Plugins ###
+#plugins:
+#  - jemoji
+
+### Navbar Settings ###
+nav_exclude: # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/thanks.html
+  - pages/blog.html
+
+### Author Info ###
+author:
+  name: Nilavan Akilan
+  image: assets/img/linkedin_profile_2.jpg
+  email: nilavanakilan2001@gmail.com
+  linkedin: nilavan-akilan
+  github: Nilavan
+  kaggle: nilavanakilan
+
+### Posts ###
+permalink: /blog/:title
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus # Your website Shortname on disqus
+
+### Analytics ###
+analytics:
+  enabled: false # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
