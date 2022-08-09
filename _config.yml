@@ -1,7 +1,9 @@
 ### Site Settings ###
 title: krisbimantara
 description: >-
-  Data Scientist | Machine Learning Engineer
+  Kristoforus Bimantara
+  Fresh Graduate | Full-Time Learner
+  Interested in Data Science and Machine Learning
 baseurl: "" # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository: krisbimantara/krisbimantara.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 
@@ -23,7 +25,7 @@ author:
   email: bimantarakristoforus@gmail.com
   linkedin: krisbimantara
   github: krisbimantara
-  kaggle: nilavanakilan
+  kaggle: kristoforusbimantara
 
 ### Posts ###
 permalink: /blog/:title
