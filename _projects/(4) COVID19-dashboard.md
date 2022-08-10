@@ -36,5 +36,6 @@ https://i.pinimg.com/originals/08/e7/ec/08e7ec0f84233b37ac26e920bc60ec57.gif
 </div>
 -->
 <div class="row">
-{% include _drafts/covid19dashboard.html %}
+{<iframe title="Covid19_Dashboard_Indo_krisbimantara" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTA0YzJiNDYtZmFiZi00MjU4LTkzZGMtNGQ2ZThiNTdkODk2IiwidCI6ImQ3Yjk1ZWM0LTlhN2YtNDI2MC1iMmUzLWViNTNmMGFjODQwMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+}
 </div>
