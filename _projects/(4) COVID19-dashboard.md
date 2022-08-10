@@ -20,4 +20,4 @@ This project aims to visualize COVID-19 data in Indonesia so that the audience c
     <h2>📚 The Dataset:</h2>
 </div>
 
-Find out the dataset [here.]([https://machinehack.com/hackathon/odetocode_predicting_weather_using_alien_fruit_properties/data](https://1drv.ms/x/s!AgNq4jb_MzzqgQ81-kjJAXTPYadl?e=Ke04DN))
+Find out the dataset [here.](https://1drv.ms/x/s!AgNq4jb_MzzqgQ81-kjJAXTPYadl?e=Ke04DN)
