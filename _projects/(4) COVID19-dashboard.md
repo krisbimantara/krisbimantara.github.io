@@ -4,10 +4,6 @@ tools: [Power BI, featured]
 image: ../assets/img/Covid-indonesia.jpg
 description: Visualization of COVID-19 data in Indonesia using Microsoft Power BI.
 ---
-<div class="row">
-<iframe title="Covid19_Dashboard_Indo_krisbimantara" width="1024" height="590" src="https://app.powerbi.com/view?r=eyJrIjoiMTA0YzJiNDYtZmFiZi00MjU4LTkzZGMtNGQ2ZThiNTdkODk2IiwidCI6ImQ3Yjk1ZWM0LTlhN2YtNDI2MC1iMmUzLWViNTNmMGFjODQwMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
-</div>
-
 <div class="m-3" id="problem">
     <br />
     <h2>🎯 About The Project:</h2>
@@ -21,3 +17,7 @@ This project aims to visualize COVID-19 data in Indonesia so that the audience c
 </div>
 
 Find out the dataset [here.](https://1drv.ms/x/s!AgNq4jb_MzzqgQ81-kjJAXTPYadl?e=Ke04DN)
+
+<div class="row">
+<iframe title="Covid19_Dashboard_Indo_krisbimantara" width="1024" height="590" src="https://app.powerbi.com/view?r=eyJrIjoiMTA0YzJiNDYtZmFiZi00MjU4LTkzZGMtNGQ2ZThiNTdkODk2IiwidCI6ImQ3Yjk1ZWM0LTlhN2YtNDI2MC1iMmUzLWViNTNmMGFjODQwMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+</div>
