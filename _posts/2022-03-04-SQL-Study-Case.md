@@ -24,11 +24,11 @@ description: SQL Study Case Solution.
     <h2>🎯 Solution:</h2>
 </div>
 
-Access Bigquery San Francisco GoBike dataset [here.](https://drive.google.com/file/d/1YDQ9cGBNSu-pYAY5E9CQMHmskiuqa9E-/view?usp=sharing)
+Access Bigquery San Francisco GoBike dataset [here.](https://console.cloud.google.com/marketplace/product/san-francisco-public-data/sf-bike-share?project=earnest-smithy-343515)
 
-in this solution i compute berkeley region performance
+in this solution i compute Berkeley region performance, here is the SQL code that i wrote to solve this study case: 
 
-#### Solution a
+#### Solution a:
 
 ```sql
 WITH berkeley_station as (
@@ -60,7 +60,7 @@ FROM berkeley_trips
 WHERE no_trips = 3500;
 ```
 
-#### Solution b
+#### Solution b:
 
 ```sql
 WITH berkeley_station as (
@@ -92,7 +92,7 @@ SELECT APPROX_QUANTILES(DISTINCT duration_sec, 100)[OFFSET(90)] AS longest_trip_
 FROM berkeley_trips
 ```
 
-#### Solution c
+#### Solution c:
 
 ```sql
 WITH berkeley_station as (
@@ -133,7 +133,7 @@ SELECT AVG(in_between_rental_time_sec)
 FROM time_between
 ```
 
-#### Solution d
+#### Solution d:
 
 ```sql
 WITH allregion_station as (
@@ -163,3 +163,13 @@ FROM allregion_trips
 GROUP BY 1,2
 ORDER BY total_trips DESC
 ```
+
+<div class="m-3" id="data">
+    <br />
+    <h2>🎯 The answers:</h2>
+</div>
+
+- Berkeley region reach its 3500th rental on 2018-01-26
+- The longest trip duration is 4976 second
+- The average in-between rental time by duration between trips is 391.81
+- Berkeley region rank is 3
