@@ -20,7 +20,7 @@ description: E-Commerce Bookstore Report using Microsoft Power BI.
 6. I also use bubble chart to show the correlation between rating, price, and total books. This chart tell that the book with the best rating has the most number of books, and also the book with the best rating has an average price which is quite expensive and also has the highest number of books.
 
 <div class="row">
-<iframe width="1024" height="600" src="https://datastudio.google.com/embed/reporting/80d75446-ba38-488e-a665-cb5201a2ba5c/page/6zXD" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="1024" height="590" src="https://datastudio.google.com/embed/reporting/80d75446-ba38-488e-a665-cb5201a2ba5c/page/6zXD" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 <div class="m-3" id="data">
