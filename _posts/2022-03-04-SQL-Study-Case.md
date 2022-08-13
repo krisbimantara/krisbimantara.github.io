@@ -65,7 +65,7 @@ WHERE no_trips = 3500;
 
 <div class="m-3" id="clean">
     <br />
-    <h4>2️Solution b:</h4>
+    <h4>Solution b:</h4>
 </div>
 
 ```SQL
@@ -100,7 +100,7 @@ FROM berkeley_trips
 
 <div class="m-3" id="clean">
     <br />
-    <h4>2️Solution c:</h4>
+    <h4>Solution c:</h4>
 </div>
 
 ```SQL
@@ -144,7 +144,7 @@ FROM time_between
 
 <div class="m-3" id="clean">
     <br />
-    <h4>2️Solution d:</h4>
+    <h4>Solution d:</h4>
 </div>
 
 ```SQL
