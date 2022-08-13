@@ -10,13 +10,21 @@ description: Stunting Report in Indonesia [Gen GIGIH 2.0 Capstone Project].
 
 <div class="m-3" id="problem">
     <br />
-    <h2>🎯 About The Project:</h2>
+    <h2>🎯 [Project Proposal]:</h2>
 </div>
-
-## [Project Proposal]
 
 Find out the project proposal [here.](https://docs.google.com/document/d/1bqz0Onv-A2cHq3DM5a2tJdZFfo9XxVg0K_rg7g76UNU/edit?usp=sharing)
 
-## [Project Dataset]
+<div class="m-3" id="problem">
+    <br />
+    <h2>🧠 [Project Presentation Deck]:</h2>
+</div>
+
+Find out the project presentation deck [here.](https://docs.google.com/presentation/d/1SQ5jczTbf-0yrtGp522D_Ka8sQMJGwTy/edit?usp=sharing&ouid=102160383214774999737&rtpof=true&sd=true)
+
+<div class="m-3" id="problem">
+    <br />
+    <h2>📚 [Project Dataset]:</h2>
+</div>
 
 Find out the dataset [here.](https://docs.google.com/spreadsheets/d/1lu0pdQVmRGpHBJA3_s7sdKt3iOA04UFggfeaB9i5AEI/edit?usp=sharing)
