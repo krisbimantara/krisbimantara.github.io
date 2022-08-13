@@ -27,7 +27,6 @@ description: SQL Study Case Solution.
 Access Bigquery San Francisco GoBike dataset [here.](https://drive.google.com/file/d/1YDQ9cGBNSu-pYAY5E9CQMHmskiuqa9E-/view?usp=sharing)
 
 in this solution i compute berkeley region performance
-
 <div class="m-3" id="clean">
     <br />
     <h4>Solution a:</h4>
@@ -62,7 +61,6 @@ SELECT *
 FROM berkeley_trips
 WHERE no_trips = 3500;
 ```
-
 <div class="m-3" id="clean">
     <br />
     <h4>Solution b:</h4>
@@ -102,7 +100,6 @@ FROM berkeley_trips
     <br />
     <h4>Solution c:</h4>
 </div>
-
 ```sql
 WITH berkeley_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
@@ -141,7 +138,6 @@ time_between as (
 SELECT AVG(in_between_rental_time_sec)
 FROM time_between
 ```
-
 <div class="m-3" id="clean">
     <br />
     <h4>Solution d:</h4>
