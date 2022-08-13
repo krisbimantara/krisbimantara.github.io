@@ -1,5 +1,5 @@
 ---
-name: SQL
+name: SQL Study Case
 tools: [Bigquery, SQL, featured]
 image: ../assets/img/sql.png
 description: SQL Study Case [Generasi GIGIH 2.0].
