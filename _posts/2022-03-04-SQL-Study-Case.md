@@ -32,6 +32,7 @@ in this solution i compute berkeley region performance
     <br />
     <h4>Solution a:</h4>
 </div>
+
 ```SQL
 WITH berkeley_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
@@ -66,6 +67,7 @@ WHERE no_trips = 3500;
     <br />
     <h4>2️Solution b:</h4>
 </div>
+
 ```SQL
 WITH berkeley_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
@@ -100,6 +102,7 @@ FROM berkeley_trips
     <br />
     <h4>2️Solution c:</h4>
 </div>
+
 ```SQL
 WITH berkeley_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
@@ -143,6 +146,7 @@ FROM time_between
     <br />
     <h4>2️Solution d:</h4>
 </div>
+
 ```SQL
 WITH allregion_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
