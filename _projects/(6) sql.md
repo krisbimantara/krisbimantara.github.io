@@ -10,5 +10,5 @@ description: E-Commerce Bookstore Report using Microsoft Power BI.
 </div>
 
 <div align="center">
-  <img src=".../assets/img/sqltask1.png"/>
+  <img src="assets/img/sqltask1.png">
 </div>
