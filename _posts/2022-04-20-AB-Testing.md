@@ -8,7 +8,7 @@ description: These four “clean code” tips will dramatically improve your eng
 
 <iframe 
   width="660"
-  height="375"
+  height="1024"
   <!DOCTYPE html>
   <!-- Created by pdf2htmlEX (https://github.com/pdf2htmlEX/pdf2htmlEX) -->
   <html xmlns="http://www.w3.org/1999/xhtml">
