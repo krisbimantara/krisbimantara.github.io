@@ -25,6 +25,7 @@ description: SQL Study Case Solution.
 </div>
 
 Access Bigquery San Francisco GoBike dataset [here.](https://drive.google.com/file/d/1YDQ9cGBNSu-pYAY5E9CQMHmskiuqa9E-/view?usp=sharing)
+
 in this solution i compute berkeley region performance
 
 - solution a
