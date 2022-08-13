@@ -33,7 +33,7 @@ in this solution i compute berkeley region performance
     <h4>Solution a:</h4>
 </div>
 
-```SQL
+```sql
 WITH berkeley_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
     FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_regions` as a
@@ -68,7 +68,7 @@ WHERE no_trips = 3500;
     <h4>Solution b:</h4>
 </div>
 
-```SQL
+```sql
 WITH berkeley_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
     FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_regions` as a
@@ -103,7 +103,7 @@ FROM berkeley_trips
     <h4>Solution c:</h4>
 </div>
 
-```SQL
+```sql
 WITH berkeley_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
     FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_regions` as a
@@ -147,7 +147,7 @@ FROM time_between
     <h4>Solution d:</h4>
 </div>
 
-```SQL
+```sql
 WITH allregion_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
     FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_regions` as a
