@@ -4,10 +4,6 @@ tools: [Google Data Studio, featured]
 image: ../assets/img/dasbot.png
 description: E-Commerce Bookstore Report using Microsoft Power BI.
 ---
-<div class="row">
-<iframe width="600" height="600" src="https://datastudio.google.com/embed/reporting/80d75446-ba38-488e-a665-cb5201a2ba5c/page/6zXD" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
-
 <div class="m-3" id="problem">
     <br />
     <h2>🎯 About The Project:</h2>
@@ -22,6 +18,10 @@ description: E-Commerce Bookstore Report using Microsoft Power BI.
 4. I also use table with heatmap to show how many books are published by each publisher and in order from the most. And also I use table with bars and heatmap to show how many books use cover and paper type for each cover and paper combination and also show the average price and discount price for each cover and paper combination.
 5. After that I use combo chart to show the comparison of ratings and reviews of each title, ordered by review. So the audience can see which books are often reviewed by people and can also see the ratings for the books whether it is good or bad.
 6. I also use bubble chart to show the correlation between rating, price, and total books. This chart tell that the book with the best rating has the most number of books, and also the book with the best rating has an average price which is quite expensive and also has the highest number of books.
+
+<div class="row">
+<iframe width="1024" height="600" src="https://datastudio.google.com/embed/reporting/80d75446-ba38-488e-a665-cb5201a2ba5c/page/6zXD" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>
 
 <div class="m-3" id="data">
     <br />
