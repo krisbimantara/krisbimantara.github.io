@@ -132,7 +132,7 @@ FROM time_between
 
 
 - solution d
-```sql
+```SQL
 WITH allregion_station as (
     SELECT a.name as region_name,b.station_id, b.name as station_name, b.region_id
     FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_regions` as a
