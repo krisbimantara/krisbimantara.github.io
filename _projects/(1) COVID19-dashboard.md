@@ -13,7 +13,7 @@ description: Forecasting and Visualization of COVID-19 data in Indonesia using M
 
 <div class="m-3" id="code">
     <br />
-    <h2>🤖 Code Program</h2>
+    <h2>🤖 Code Program:</h2>
     <iframe title="ARIMA CODE PROGRAM" width="1024" height="800" src="../assets/img/ARIMA_FORECASTING_COVID19.html"
 frameborder="0" allowfullscreen="true"></iframe>
 </div>
@@ -21,5 +21,5 @@ frameborder="0" allowfullscreen="true"></iframe>
 <div class="m-3" id="data">
     <br />
     <h2>📚 The Dataset:</h2>
-    Find out the dataset [here.](https://1drv.ms/x/s!AgNq4jb_MzzqgQ81-kjJAXTPYadl?e=Ke04DN)
+    Find out the dataset [here.]https://1drv.ms/x/s!AgNq4jb_MzzqgQ81-kjJAXTPYadl?e=Ke04DN
 </div>
