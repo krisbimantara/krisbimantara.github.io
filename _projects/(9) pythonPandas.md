@@ -1,6 +1,6 @@
 ---
 name: Python Practice II [Gen GIGIH 2.0]
-tools: [Python, Pandas, featured]
+tools: [Python, Pandas]
 image: ../assets/img/py.jpg
 description: Practice using python library to answer questions that have been given based on the dataset.
 ---
