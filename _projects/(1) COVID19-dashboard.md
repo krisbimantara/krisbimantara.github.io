@@ -13,17 +13,18 @@ This project aims to visualize COVID-19 data in Indonesia so that the audience c
 
 <iframe title="COVID19 DASHBOARD" width="1024" height="590" src="https://app.powerbi.com/view?r=eyJrIjoiNjRmOWE0ZGItNTgyNi00YWQ0LWI1NWMtNDJkMGNiZGMwMWY5IiwidCI6ImIyODkxYzg5LTEwMzctNGFiNy1hZWVmLTNmMTZhM2NjM2VlZiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
 
-<div class="row">
+<div class="m-3" id="problem">
     <br />
     <h2>🤖 Code Program</h2>
-    <iframe 
+</div>
+
+<iframe 
   width="1024"
   height="800"
   src="../assets/img/ARIMA_FORECASTING_COVID19.html"
   frameborder="0"
   allowfullscreen>
-  </iframe>
-</div>
+</iframe>
 
 <div class="m-3" id="data">
     <br />
