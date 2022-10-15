@@ -2,7 +2,7 @@
 name: E-Commerce Bookstore Dashboard
 tools: [Google Data Studio, featured]
 image: ../assets/img/dasbot.png
-description: E-Commerce Bookstore Report using Microsoft Power BI.
+description: E-Commerce Bookstore Report using Google Data Studio.
 ---
 <div class="m-3" id="problem">
     <br />
@@ -19,9 +19,7 @@ description: E-Commerce Bookstore Report using Microsoft Power BI.
 5. After that I use combo chart to show the comparison of ratings and reviews of each title, ordered by review. So the audience can see which books are often reviewed by people and can also see the ratings for the books whether it is good or bad.
 6. I also use bubble chart to show the correlation between rating, price, and total books. This chart tell that the book with the best rating has the most number of books, and also the book with the best rating has an average price which is quite expensive and also has the highest number of books.
 
-<div class="row">
 <iframe width="1024" height="590" src="https://datastudio.google.com/embed/reporting/80d75446-ba38-488e-a665-cb5201a2ba5c/page/6zXD" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
 
 <div class="m-3" id="data">
     <br />
