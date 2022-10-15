@@ -11,9 +11,7 @@ description: Visualization of COVID-19 data in Indonesia using Microsoft Power B
 
 This project aims to visualize COVID-19 data in Indonesia so that the audience can easily find out hows the conditions of COVID-19 in Indonesia. This dashboard was created using Microsoft Power BI to complete an independent study capstone project in Microsoft Indonesia. This dashboard also shows COVID-19 forecasting for the next 30 days using the SARIMA model.
 
-<div class="row">
 <iframe title="COVID19 DASHBOARD" width="1024" height="590" src="https://app.powerbi.com/view?r=eyJrIjoiNjRmOWE0ZGItNTgyNi00YWQ0LWI1NWMtNDJkMGNiZGMwMWY5IiwidCI6ImIyODkxYzg5LTEwMzctNGFiNy1hZWVmLTNmMTZhM2NjM2VlZiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
-</div>
 
 <div class="row">
     <br />
