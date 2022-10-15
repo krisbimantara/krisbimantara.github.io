@@ -2,11 +2,10 @@
 name: Dealing with Stunting in Indonesia
 tools: [Google Data Studio, featured]
 image: ../assets/img/stunting.jpg
-description: Stunting Report in Indonesia [Gen GIGIH 2.0 Capstone Project].
+description: Stunting Report in Indonesia using Google Data Studio.
 ---
-<div class="row">
+
 <iframe width="1024" height="590" src="https://datastudio.google.com/embed/reporting/d8bfef94-2630-465c-a8d9-02944d41c850/page/P2rwC" frameborder="0" style="border:0" allowfullscreen></iframe>
-</div>
 
 <div class="m-3" id="problem">
     <br />
