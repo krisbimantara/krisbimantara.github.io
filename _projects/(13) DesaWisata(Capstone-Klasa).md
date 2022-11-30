@@ -1,7 +1,7 @@
 ---
 name: Potential Analysis of Tourism Villages in West Java
 tools: [Python, Classification, Tableau, featured]
-image: ../assets/img/desawisata.png
+image: ../assets/img/desawisata.jpg
 description: Identify Villages That Have The Potential to Become Tourism Villages in West Java.
 ---
 <div class="m-3" id="problem">
@@ -16,15 +16,15 @@ This project aims to determine the potential of tourist villages in West Java us
     <br />
     <h2>📚 Presentation About The Project:</h2>
 </div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRC0GTDyqrFsB5J3EKoTdYxwK4aArSW8dIykCeBFz3YCkOGqaHGRl_g6vJ4gCrzRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1024" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRC0GTDyqrFsB5J3EKoTdYxwK4aArSW8dIykCeBFz3YCkOGqaHGRl_g6vJ4gCrzRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1024" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div class="m-3" id="visualization">
     <br />
     <h2>✅ Dashboard:</h2>
 </div>
 <script type='text/javascript' src ='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
-<div class='tableauPlaceholder' id='viz1669834310113' style='width: 1100px; height: 850px;'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CA&#47;CAPSTONEKLASA&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript>
-	<object class='tableauViz' width='1100' height='850' style='display:none;'>
+<div class='tableauPlaceholder' id='viz1669834310113' style='width: 1120px; height: 850px;'><noscript><a href='#'><img alt='Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CA&#47;CAPSTONEKLASA&#47;Dashboard&#47;1_rss.png' style='border: none' /></a></noscript>
+	<object class='tableauViz' width='1120' height='850' style='display:none;'>
 	<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
 	<param name='embed_code_version' value='3' />
 	<param name='site_root' value='' />
