@@ -25,7 +25,7 @@ This project aims to visualize COVID-19 data in Indonesia so that the audience c
     <br />
     <h4>🚀 Tableau Version:</h4>
 </div>
-<iframe title="COVID19 DASHBOARD" width="1024" height="590" src="https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IN&#47;INDONESIACOVID-19DASHBOARD&#47;Dashboard1&#47;1_rss.png" frameborder="0" style="border:0" allowFullScreen="true"></iframe>
+<iframe title="COVID19 DASHBOARD" width="1024" height="590" src="https://public.tableau.com/views/INDONESIACOVID-19DASHBOARD/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" frameborder="0" style="border:0" allowFullScreen="true"></iframe>
 
 <div class="m-3" id="code">
     <br />
