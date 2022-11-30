@@ -25,9 +25,18 @@ This project aims to visualize COVID-19 data in Indonesia so that the audience c
     <br />
     <h4>🚀 Tableau Version:</h4>
 </div>
-<script type='text/javascript' src ='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
-<div class='tableauPlaceholder' id='viz1669823722116' style='width: 1100px; height: 800px;'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IN&#47;INDONESIACOVID-19DASHBOARD&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
-	<object class='tableauViz' width='1100' height='800' style='display:none;'>
+<script type='text/javascript'>
+var divElement = document.getElementById('viz1669826023980');
+var vizElement = divElement.getElementsByTagName('object')[0];
+	if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1400px';vizElement.style.height='827px';} 
+	else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1400px';vizElement.style.height='827px';} 
+	else { vizElement.style.width='100%';vizElement.style.height='1927px';}
+var scriptElement = document.createElement('script');
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+<div class='tableauPlaceholder' id='viz1669826023980' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IN&#47;INDONESIACOVID-19DASHBOARD&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
+	<object class='tableauViz'  style='display:none;'>
 	<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
 	<param name='embed_code_version' value='3' />
 	<param name='site_root' value='' />
