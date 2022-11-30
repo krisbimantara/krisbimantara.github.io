@@ -1,22 +1,22 @@
 ---
 name: Potential Analysis of Tourism Villages in West Java
 tools: [Python, Classification, Tableau, featured]
-image: ../assets/img/Covid-indonesia.jpg
+image: ../assets/img/desawisata.png
 description: Identify Villages That Have The Potential to Become Tourism Villages in West Java.
 ---
 <div class="m-3" id="problem">
     <br />
     <h2>🎯 About The Project:</h2>
 </div>
-During the COVID-19 pandemic, tourism was one of the sectors that hit the hardest. To recover the tourism sector, there are three phases of saving tourism and the creative economy: Emergency Response, Recovery, and Normalization.
-In order to recover the local economy after the COVID-19 pandemic, the government is preparing new adaptations for tourist destinations, especially Tourism Villages. In Indonesia, the village is the smallest unit of government. The data attached represents tourism potential in West Java and can be used to provide insight into the policies to be taken.
-This project aims to determine the potential of tourist villages in West Java using a scoring classification system so that the West Java government can easily identify villages that are feasible to be developed into tourist villages. This dashboard was created using tableau to complete the final project of the Klasa Professional Data Science Bootcamp.
+During the COVID-19 pandemic, tourism was one of the sectors that hit the hardest. To recover the tourism sector, there are three phases of saving tourism and the creative economy: Emergency Response, Recovery, and Normalization.<br />
+In order to recover the local economy after the COVID-19 pandemic, the government is preparing new adaptations for tourist destinations, especially Tourism Villages. In Indonesia, the village is the smallest unit of government. The data attached represents tourism potential in West Java and can be used to provide insight into the policies to be taken.<br />
+This project aims to determine the potential of tourist villages in West Java using a scoring classification system so that the West Java government can easily identify villages that are feasible to be developed into tourist villages. This dashboard was created using tableau to complete the final project of the Klasa Professional Data Science Bootcamp.<br />
 
 <div class="m-3" id="data">
     <br />
     <h2>📚 Presentation About The Project:</h2>
 </div>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRC0GTDyqrFsB5J3EKoTdYxwK4aArSW8dIykCeBFz3YCkOGqaHGRl_g6vJ4gCrzRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRC0GTDyqrFsB5J3EKoTdYxwK4aArSW8dIykCeBFz3YCkOGqaHGRl_g6vJ4gCrzRQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1024" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <div class="m-3" id="visualization">
     <br />
