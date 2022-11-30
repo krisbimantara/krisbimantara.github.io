@@ -26,8 +26,8 @@ This project aims to visualize COVID-19 data in Indonesia so that the audience c
     <h4>🚀 Tableau Version:</h4>
 </div>
 <script type='text/javascript' src ='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
-<div class='tableauPlaceholder' id='viz1669823722116' style='width: 1024px; height: 870px;'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IN&#47;INDONESIACOVID-19DASHBOARD&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
-	<object class='tableauViz' width='1024' height='870' style='display:none;'>
+<div class='tableauPlaceholder' id='viz1669823722116' style='width: 1024px; height: 860px;'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IN&#47;INDONESIACOVID-19DASHBOARD&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
+	<object class='tableauViz' width='1024' height='860' style='display:none;'>
 	<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
 	<param name='embed_code_version' value='3' />
 	<param name='site_root' value='' />
