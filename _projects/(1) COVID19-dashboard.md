@@ -32,7 +32,7 @@ This project aims to visualize COVID-19 data in Indonesia so that the audience c
 	<param name='embed_code_version' value='3' />
 	<param name='site_root' value='' />
 	<param name='name' value='INDONESIACOVID-19DASHBOARD&#47;Dashboard1' />
-	<param name='tabs' value='no' /><param name='toolbar' value='yes' />
+	<param name='tabs' value='yes' /><param name='toolbar' value='yes' />
 	<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;IN&#47;INDONESIACOVID-19DASHBOARD&#47;Dashboard1&#47;1.png' />
 	<param name='animate_transition' value='yes' />
 	<param name='display_static_image' value='yes' />
