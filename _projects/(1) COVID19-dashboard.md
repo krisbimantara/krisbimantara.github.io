@@ -1,6 +1,6 @@
 ---
 name: COVID-19 Indonesia Dashboard and Forecasting Using SARIMA Model
-tools: [Power BI, featured]
+tools: [Python, SARIMA, Power BI, Tableau, featured]
 image: ../assets/img/Covid-indonesia.jpg
 description: Forecasting and Visualization of COVID-19 data in Indonesia using Microsoft Power BI.
 ---
